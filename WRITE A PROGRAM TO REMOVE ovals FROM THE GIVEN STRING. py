@@ -1,0 +1,12 @@
+#WRITE A PROGRAM TO REMOVE ovals FROM THE GIVEN STRING. 
+a=input()
+b=a.replace('a','')
+c=b.replace('e','')
+d=c.replace('o','')
+f=d.replace('i','')
+g=f.replace('u','')
+print(g)
+
+output:
+jnaneswar
+jnnswr
